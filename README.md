@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -282,8 +281,8 @@ Website x dkv 4</h1>
             <h3>Kelas X DKV 4</h3>
             <p>Walas: pak aan</p>
             <p>Jumlah murid: 37</p>
-            <p>Jumlah murid perempuan: 8</p>
-<p>Jumlah murid laki laki: 29</p>
+            <p>Jumlah murid perempuan: 9</p>
+<p>Jumlah murid laki laki: 28</p>
         </div>
     </div>
 </section>
@@ -292,11 +291,9 @@ Website x dkv 4</h1>
     <p><i class="fas fa-envelope icon"></i>Email: <a href="mailto:smk.yapera@gmail.com">smk.yapera@gmail.com</a></p>
     <p><i class="fas fa-phone icon"></i>Telepon: <a href="tel:+6289609316820">+62 896 0931 6820</a></p>
 </section>
-
 <footer>
     <p>&copy; 2024 Website Kelas X DKV 4</p>
 <p>Pembuat Website: Misyal</p>
 </footer>
-
 </body>
 </html>
